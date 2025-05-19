@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Freelancer Daud</h1>
 <h3 align="center">Web Developer</h3>
 
+![Web Developer](https://cdn.buymeacoffee.com/uploads/cover_images/2025/05/uqQPVMMSZJuPoRdXK7HPiNUNF4RWcmg6twl4l5Qm.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancerdaud&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerdaud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freelancerdaud" alt="freelancerdaud" /></a> </p>
